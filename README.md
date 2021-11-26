@@ -7,7 +7,7 @@
 
 4- create virtual sapace with command "virtualenv fenv" 
 
-5- activate virtual space with command "fenv\Scripts\activate" -->  "C:\Users\asita\OneDrive\Masaüstü\Simple-CRUD-Python\fenv\Scripts\activate" is is successed you should see line like this; "(fenv) C:\Users\asita\OneDrive\Masaüstü\Simple-CRUD-Python"
+5- activate virtual space with command "fenv\Scripts\activate" -->  "C:\Users\asita\OneDrive\Masaüstü\Simple-CRUD-Python\fenv\Scripts\activate" if it's successed you should see line like this; "(fenv) C:\Users\asita\OneDrive\Masaüstü\Simple-CRUD-Python"
 
 6- install requirements.txt (pip install -r requirements.tx)
 
