@@ -16,3 +16,4 @@
 8- run command "python manage.py migrate"
 
 9- run command "python manage.py runserver"
+
